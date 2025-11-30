@@ -1,5 +1,5 @@
 # From Genetic to Systemic Aging: Multiscale Analysis and AI-Driven Insights into Human Longevity
-A professionally curated list of resources (papers, data, etc.) on **human longevity**, which comprehensively and systematically summarizes the recent advances of this filed.
+A professionally curated list of resources (papers, data, etc.) on **human longevity**, which comprehensively and systematically summarizes the recent advances of this field.
 
 We will continuously update this list with the latest resources. Should you find any missed resources or errors, please feel free to open an issue or contribute a pull request.
 
@@ -10,9 +10,9 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
-- [**Overview of Worldwide Effects of NDs (No. of Patients)**](#Overview-of-Worldwide-Effects)
-- [**Overview of Worldwide Research (No. of Studies)**](#Overview-of-Worldwide-Studies)
-- [**Framework Overview**](#Framework-Overview)
+- [**Distribution of Paper Databases (Journals)**](#Distribution-of-Databases)
+- [**Distribution of Publication Years)**](#Distribution-of-Years)
+- [**Overview of Core Themes**](#Overview-of-Themes)
 - [**Overview of 169 Included Studies (AI Types, NDs Types, Sample Sizes, Gait Data Types, etc.)**](#Overview-of-All-Included-Studies)
 - [**Statistics of Different Types of NDs Studies and AI Models**](#Statistics-of-Different-Types-of-NDs-Studies-and-AI-Models)
 - [**Key Information Summary of Different Gait-Based NDs Studies**](#Key-Summary-of-Different-Gait-Based-Neurodegenerative-Diseases-NDs-Studies)
@@ -60,13 +60,13 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 <!-- /vscode-markdown-toc -->
 
 
-## Overview of Worldwide Effects
+## Distribution of Databases
 ![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/World_effects.png)
 
-## Overview of Worldwide Studies
+## Distribution of Years
 ![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/published_year.png)
 
-## Framework Overview
+## Overview of Themes
 ![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/overview.png)
 
 

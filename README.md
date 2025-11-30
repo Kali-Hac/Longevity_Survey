@@ -12,7 +12,7 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 <!-- vscode-markdown-toc -->
 - [**Overview of Core Themes**](#Overview-of-Themes)
 - [**Distribution of Paper Databases (Journals)**](#Distribution-of-Databases)
-- [**Distribution of Publication Years)**](#Distribution-of-Years)
+- [**Distribution of Publication Years**](#Distribution-of-Years)
 - [**Distribution of Countries**](#Distribution-of-Contries)
 - [**Distribution of Focused Levels**](#Distribution-of-All-Levels)
 - [**Distribution of Gene Level Themes**](#Distribution-of-Gene-Level)

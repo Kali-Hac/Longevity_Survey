@@ -47,7 +47,7 @@ https://github.com/Kali-Hac/Longevity_Survey/tree/main/Resources
 
 
 ## Overview of Themes
-![image](https://github.com/Kali-Hac/Longevity_Survey/blob/master/Resources/gene_level_themes.png)
+![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/gene_level_themes.png)
 ![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/overview.png)
 ![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/overview.png)
 ![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/overview.png)

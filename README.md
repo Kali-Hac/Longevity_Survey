@@ -1,4 +1,4 @@
-# From Genetic to Systemic Aging: Multiscale Analysis and AI-Driven Insights into Human Longevity
+x# From Genetic to Systemic Aging: Multiscale Analysis and AI-Driven Insights into Human Longevity
 A professionally curated list of resources (papers, data, etc.) on **human longevity**, which comprehensively and systematically summarizes the recent advances of this field.
 
 We will continuously update this list with the latest resources. Should you find any missed resources or errors, please feel free to open an issue or contribute a pull request.
@@ -72,8 +72,8 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 
 ## Overview of All Included Studies
 
-![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/AI_NDs_Sample_Data.png)
-![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/Sensor_Countries.png)
+![image]()
+![image]()
 
 
 ## Statistics of Different Types of NDs Studies and AI Models

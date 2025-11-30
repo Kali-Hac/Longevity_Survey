@@ -10,9 +10,20 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
+- [**Overview of Core Themes**](#Overview-of-Themes)
 - [**Distribution of Paper Databases (Journals)**](#Distribution-of-Databases)
 - [**Distribution of Publication Years)**](#Distribution-of-Years)
-- [**Overview of Core Themes**](#Overview-of-Themes)
+- [**Distribution of Countries**](#Distribution-of-Contries)
+- [**Distribution of Focused Levels**](#Distribution-of-All-Levels)
+- [**Distribution of Gene Level Themes**](#Distribution-of-Gene-Level)
+- [**Distribution of Molecule Level Themes**](#Distribution-of-Molecule-Level)
+- [**Distribution of Cell Level Themes**](#Distribution-of-Cell-Level)
+- [**Distribution of System Level Themes**](#Distribution-of-System-Level)
+- [**Distribution of Studied Species**](#Distribution-of-Species)
+- [**Distribution of Sample Sources**](#Distribution-of-Sample-Sources)
+- [**Distribution of Technologies**](#Distribution-of-Technologies)
+- [**Distribution of AI Technologies**](#Distribution-of-AI-Technologies)
+- 
 - [**Overview of 169 Included Studies (AI Types, NDs Types, Sample Sizes, Gait Data Types, etc.)**](#Overview-of-All-Included-Studies)
 - [**Statistics of Different Types of NDs Studies and AI Models**](#Statistics-of-Different-Types-of-NDs-Studies-and-AI-Models)
 - [**Key Information Summary of Different Gait-Based NDs Studies**](#Key-Summary-of-Different-Gait-Based-Neurodegenerative-Diseases-NDs-Studies)
@@ -59,6 +70,12 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 
+## Overview of Themes
+![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/overview.png)
+![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/overview.png)
+![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/overview.png)
+![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/overview.png)
+
 
 ## Distribution of Databases
 ![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/World_effects.png)
@@ -66,8 +83,36 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 ## Distribution of Years
 ![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/published_year.png)
 
-## Overview of Themes
-![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/overview.png)
+## Distribution of Countries
+![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/published_year.png)
+
+## Distribution of All Levels
+![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/published_year.png)
+
+## Distribution of Gene Level
+![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/published_year.png)
+
+## Distribution of Molecule Level
+![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/published_year.png)
+
+## Distribution of Cell Level
+![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/published_year.png)
+
+## Distribution of System Level
+![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/published_year.png)
+
+## Distribution of Species
+![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/published_year.png)
+
+## Distribution of Sample Sources
+![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/published_year.png)
+
+## Distribution of Technologies
+![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/published_year.png)
+
+
+## Distribution of AI Technologies
+![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/published_year.png)
 
 
 ## Overview of All Included Studies

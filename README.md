@@ -10,8 +10,8 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
-- [**Overview of Core Themes: </br>3 Gene level themes, 5 molecule level themes, 6 cell level themes, and 5 system level themes**](#Overview-of-Themes)
-- [**Overview of 97 Included Studies: </br>Databases, Publication Years, Countries, Focused Levels, Core Themes, Species, Sample Sources, Employed Technologies, etc.**](#Overview-of-All-Included-Studies)
+- [**Overview of Core Themes:** </br>3 Gene level themes, 5 molecule level themes, 6 cell level themes, and 5 system level themes](#Overview-of-Themes)
+- [**Overview of 97 Included Studies:** </br>Databases, Publication Years, Countries, Focused Levels, Core Themes, Species, Sample Sources, Employed Technologies, etc.](#Overview-of-All-Included-Studies)
 - [**Distribution of Employed AI Technologies**](#Distribution-of-AI-Technologies)
 - [**Key Information Summary of Human Longevity Studies**](#Key-Summary-of-Different-Human-Longevity-Studies)
 - [**Studies by Different Years**](#Studies-by-Different-Years)

@@ -10,11 +10,11 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
-- I. [**Overview of Core Themes: </br>3 Gene level themes, 5 molecule level themes, 6 cell level themes, and 5 system level themes**](#Overview-of-Themes)
-- II. [**Overview of 97 Included Studies: </br>Databases, Publication Years, Countries, Focused Levels, Core Themes, Species, Sample Sources, Employed Technologies, etc.**](#Overview-of-All-Included-Studies)
-- III. [**Distribution of Employed AI Technologies**](#Distribution-of-AI-Technologies)
-- VI. [**Key Information Summary of Human Longevity Studies**](#Key-Summary-of-Different-Human-Longevity-Studies)
-- VI. [**Studies by Different Years**](#Studies-by-Different-Years)
+- [**Overview of Core Themes: </br>3 Gene level themes, 5 molecule level themes, 6 cell level themes, and 5 system level themes**](#Overview-of-Themes)
+- [**Overview of 97 Included Studies: </br>Databases, Publication Years, Countries, Focused Levels, Core Themes, Species, Sample Sources, Employed Technologies, etc.**](#Overview-of-All-Included-Studies)
+- [**Distribution of Employed AI Technologies**](#Distribution-of-AI-Technologies)
+- [**Key Information Summary of Human Longevity Studies**](#Key-Summary-of-Different-Human-Longevity-Studies)
+- [**Studies by Different Years**](#Studies-by-Different-Years)
 	- [**2025**](#2025)
  	- [**2024**](#2024)
 	- [**2023**](#2023)
@@ -22,8 +22,8 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 	- [**2021**](#2021)
 
 
-- VII. [**List of All Included Papers (97 Papers)**](#List-of-All-Included-Papers)
-- VIII. [**Overview of AI-Driven Human Longevity Research**](#Overview-of-AI-Driven-Human-Longevity-Research)
+- [**List of All Included Papers (97 Papers)**](#List-of-All-Included-Papers)
+- [**Overview of AI-Driven Human Longevity Research**](#Overview-of-AI-Driven-Human-Longevity-Research)
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true

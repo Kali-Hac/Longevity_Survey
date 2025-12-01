@@ -1,7 +1,7 @@
 # From Genetic to Systemic Aging: Multiscale Analysis and AI-Driven Insights into Human Longevity
-A professionally curated list of resources (papers, data, etc.) on **human longevity**, which comprehensively and systematically summarizes the recent advances of this field.
+A professionally curated list of high-quality papers (published in top journals) and resources on **human longevity**, which systematically summarizes the recent advances of this field.
 
-We will continuously update this list with the latest resources. Should you find any missed resources or errors, please feel free to open an issue or contribute a pull request.
+We will continuously update this list with the latest resources. If you find any missed resources or errors, please feel free to open an issue or contribute a pull request.
 
 ## Survey Paper
 [**From Genetic to Systemic Aging: Multiscale Analysis and AI-Driven Insights into Human Longevity**](./) ([Arxiv](./))
@@ -15,11 +15,11 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 - [**Distribution of Employed AI Technologies**](#Distribution-of-AI-Technologies)
 - [**Key Information Summary of 97 Included Longevity Studies**](#Key-Summary-of-Different-Human-Longevity-Studies)
 - [**Studies by Different Years**](#Studies-by-Different-Years)
-	- [**2025**](#2025)
- 	- [**2024**](#2024)
-	- [**2023**](#2023)
-	- [**2022**](#2022)
-	- [**2021**](#2021)
+	- [**2025** (22)](#2025)
+ 	- [**2024** (23)](#2024)
+	- [**2023** (21)](#2023)
+	- [**2022** (13)](#2022)
+	- [**2021** (18)](#2021)
 
 
 - [**List of All Included Papers (97 Papers)**](#List-of-All-Included-Papers)

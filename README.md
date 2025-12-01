@@ -29,7 +29,6 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-https://github.com/Kali-Hac/Longevity_Survey/tree/main/Resources
 
 
 ## Overview of Themes
@@ -58,9 +57,10 @@ https://github.com/Kali-Hac/Longevity_Survey/tree/main/Resources
 
 ### Studies by Different Years 
 #### **2025**
-- [Wearable sensor-based assessments for remotely screening early-stage parkinson’s disease](https://www.mdpi.com/1424-8220/24/17/5637) (_Sensors, 2024_)
-- [Cross-spatiotemporal graph convolution networks for skeleton-based parkinsonian gait mds-updrs score estimation](https://ieeexplore.ieee.org/abstract/document/10387461) (_IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2024_)
-- [Cnn-based neurodegenerative disease classification using qr-represented gait data](https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.70100) (_Brain and Behavior, 2024_)
+- [Activated GDF11/8 subforms predict cardiovascular events and mortality in humans](https://doi.org/10.1038/s41467-025-61815-w) (Nature Communications, 2025)
+- [Attenuated growth factor signaling during cell death initiation sensitizes membranes towards peroxidation](https://doi.org/10.1038/s41467-025-56711-2) (Nature Communications, 2025)
+- [Expanding the landscape of aging via orbitrap astral mass spectrometry and tandem mass tag integration](https://doi.org/10.1038/s41467-025-60022-x) (Nature Communications, 2025)
+- [Reversible proliferative arrest induced by rapid depletion of RNase MRP](https://doi.org/10.1038/s41467-025-60471-4) (Nature Communications, 2025)
 #### **2024**
 - [Using machine learning algorithms for neurodegenerative disease gait classification](https://revistas.usb.edu.co/index.php/IngUSBmed/article/view/6081) (_Ingenierias USBMed, 2023_)
 #### **2023**

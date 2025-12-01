@@ -55,8 +55,8 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 ![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/Main_Table_5.png)
 ![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/Main_Table_6.png)
 
-### Studies by Different Years 
-#### **2025**
+## Studies by Different Years 
+### **2025**
 - [Activated GDF11/8 subforms predict cardiovascular events and mortality in humans](https://doi.org/10.1038/s41467-025-61815-w) (Nature Communications, 2025)
 - [Attenuated growth factor signaling during cell death initiation sensitizes membranes towards peroxidation](https://doi.org/10.1038/s41467-025-56711-2) (Nature Communications, 2025)
 - [Expanding the landscape of aging via orbitrap astral mass spectrometry and tandem mass tag integration](https://doi.org/10.1038/s41467-025-60022-x) (Nature Communications, 2025)
@@ -81,7 +81,7 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 - [A comprehensive single-cell atlas of three centenarian cohorts unveils unique natural killer cell signatures and enhanced mutual interactions among peripheral immune cells](https://doi.org/10.1016/j.ebiom.2025.105829) (eBioMedicine, 2025)
 
 
-#### **2024**
+### **2024**
 - [A conserved complex lipid signature marks human muscle aging and responds to short-term exercise](https://doi.org/10.1038/s43587-024-00595-2) (Nature Aging, 2024)
 - [A homoeostatic switch causing glycerol-3-phosphate and phosphoethanolamine accumulation triggers senescence by rewiring lipid metabolism](https://doi.org/10.1038/s42255-023-00972-y) (Nature Metabolism, 2024)
 - [Depletion of SAM leading to loss of heterochromatin drives muscle stem cell ageing](https://doi.org/10.1038/s41467−025−64178−4) (Nature Metabolism, 2024)
@@ -106,7 +106,7 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 - [miR-96-5p expression is sufficient to induce and maintain the senescent cell fate in the absence of stress](https://doi.org/10.1073/pnas.2322319121) (PNAS, 2024)
 - [Obesity and risk of diseases associated with hallmarks of cellular ageing: a multicohort study](https://doi.org/10.1016/S2666-7568(24)00043-0) (The Lancet Healthy Longevity, 2024)
   
-#### **2023**
+### **2023**
 - [Early-adulthood spike in protein translation drives aging via juvenile hormone/germline signaling](https://doi.org/10.1038/s41467-023-40618-x) (Nature Communications, 2023)
 - [Dynamic lipidome alterations associated with human health, disease and ageing](https://doi.org/10.1038/s42255-023-00880-1) (Nature Metabolism, 2023)
 - [Convergent genomics of longevity in rockfishes highlights the genetics of human life span variation](https://doi.org/10.1126/sciadv.add2743) (Science Advances, 2023)
@@ -129,7 +129,7 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 - [Late-life shift in caloric intake affects fly metabolism and longevity](https://doi.org/10.1073/pnas.2311019120) (PNAS, 2023)
 - [Multi-modal profiling of peripheral blood cells across the human lifespan reveals distinct immune cell signatures of aging and longevity](https://doi.org/10.1016/j.ebiom.2023.104514) (eBioMedicine, 2023)
   
-#### **2022**
+### **2022**
 - [Healthy aging and muscle function are positively associated with NAD+ abundance in humans](https://doi.org/10.1038/s43587-022-00174-3) (Nature Aging, 2022)
 - [Limited proteolysis–mass spectrometry reveals aging-associated changes in cerebrospinal fluid protein abundances and structures](https://doi.org/10.1038/s43587-022-00196-x) (Nature Aging, 2022)
 - [PARK7/DJ-1 promotes pyruvate dehydrogenase activity and maintains Treg​ homeostasis during ageing](https://doi.org/10.1038/s42255-022-00576-y) (Nature Metabolism, 2022)
@@ -144,7 +144,7 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 - [Modifiable traits, healthy behaviours, and leukocyte telomere length: a population-based study in UK Biobank](https://doi.org/10.1016/S2666-7568(22)00072-1) (The Lancet Healthy Longevity, 2022)
 - [Sirt6 regulates lifespan in Drosophila melanogaster](https://doi.org/10.1073/pnas.2111176119) (PNAS, 2022)
 
-#### **2021**
+### **2021**
 - [Atlas of RNA editing events affecting protein expression in aged and Alzheimer's disease human brain tissue](https://doi.org/10.1038/s41467-021-27204-9) (Nature Communications, 2021)
 - [Eltrombopag directly inhibits BAX and prevents cell death](https://doi.org/10.1038/s41467-021-21224-1) (Nature Communications, 2021)
 - [Disrupting the LINC complex by AAV mediated gene transduction prevents progression of Lamin induced cardiomyopathy](https://doi.org/10.1038/s41467-021-24849-4) (Nature Communications, 2021)

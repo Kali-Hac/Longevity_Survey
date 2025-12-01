@@ -12,7 +12,7 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 <!-- vscode-markdown-toc -->
 - [**Overview of Core Themes: </br>3 Gene level themes, 5 molecule level themes, 6 cell level themes, and 5 system level themes**](#Overview-of-Themes)
 - [**Overview of 97 Included Studies: </br>Databases, Publication Years, Countries, Focused Levels, Core Themes, Species, Sample Sources, Employed Technologies, etc.**](#Overview-of-All-Included-Studies)
-- [**Distribution of AI Technologies**](#Distribution-of-AI-Technologies)
+- [**Distribution of Employed AI Technologies**](#Distribution-of-AI-Technologies)
 - [**Key Information Summary of Different Human Longevity Studies**](#Key-Summary-of-Different-Human-Longevity-Studies)
 - [**Studies by Different Years**](#Studies-by-Different-Years)
 	- [**2025**](#2025)
@@ -49,11 +49,12 @@ https://github.com/Kali-Hac/Longevity_Survey/tree/main/Resources
 
 
 ## **Key Summary of Different Human Longevity Studies**
-![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/PD-1.jpg)
-![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/PD-2.jpg)
-![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/PD-3.jpg)
-![image](https://github.com/minlinzeng/AI4NDD-Survey/blob/3eff53bc3c8da532b7c682705e8e8f3fe84d22b8/Resources/PD-4.jpeg)
-
+![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/Main_Table_1.png)
+![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/Main_Table_2.png)
+![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/Main_Table_3.png)
+![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/Main_Table_4.png)
+![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/Main_Table_5.png)
+![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/Main_Table_6.png)
 
 ### Studies by Different Years 
 #### **2025**

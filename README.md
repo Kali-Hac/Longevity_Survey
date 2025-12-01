@@ -1,5 +1,5 @@
 # From Genetic to Systemic Aging: Multiscale Analysis and AI-Driven Insights into Human Longevity
-A professionally curated list of high-quality papers (published in top journals) and resources on **human longevity**, which systematically summarizes the recent advances of this field.
+A professionally curated list of high-quality studies (published in top journals) and resources on **human longevity**, which systematically summarizes the recent advances of this field.
 
 We will continuously update this list with the latest resources. If you find any missed resources or errors, please feel free to open an issue or contribute a pull request.
 

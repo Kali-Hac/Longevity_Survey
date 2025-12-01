@@ -11,23 +11,8 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
 - [**Overview of Core Themes**](#Overview-of-Themes)
-- [**Distribution of Paper Databases (Journals)**](#Distribution-of-Databases)
-- [**Distribution of Publication Years**](#Distribution-of-Years)
-- [**Distribution of Countries**](#Distribution-of-Contries)
-- [**Distribution of Focused Levels**](#Distribution-of-All-Levels)
-- [**Distribution of Gene Level Themes**](#Distribution-of-Gene-Level)
-- [**Distribution of Molecule Level Themes**](#Distribution-of-Molecule-Level)
-- [**Distribution of Cell Level Themes**](#Distribution-of-Cell-Level)
-- [**Distribution of System Level Themes**](#Distribution-of-System-Level)
-- [**Distribution of Studied Species**](#Distribution-of-Species)
-- [**Distribution of Sample Sources**](#Distribution-of-Sample-Sources)
-- [**Distribution of Technologies**](#Distribution-of-Technologies)
-- [**Distribution of AI Technologies**](#Distribution-of-AI-Technologies)
 - [**Overview of 97 Included Studies (Databases, Publication Years, Countries, Focused Levels, Core Themes, Species, Sample Sources, Employed Technologies, etc.)**](#Overview-of-All-Included-Studies)
-- 
 - [**Key Information Summary of Different Human Longevity Studies**](#Key-Summary-of-Different-Human-Longevity-Studies)
-
-
 - [**Studies by Different Years**](#Studies-by-Different-Years)
 	- [**2025**](#2025)
  	- [**2024**](#2024)

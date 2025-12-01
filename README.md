@@ -11,7 +11,7 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
 - [**Overview of Core Themes**](#Overview-of-Themes)
-- [**Overview of 97 Included Studies (Databases, Publication Years, Countries, Focused Levels, Core Themes, Species, Sample Sources, Employed Technologies, etc.)**](#Overview-of-All-Included-Studies)
+- [**Overview of 97 Included Studies: </br>Databases, Publication Years, Countries, Focused Levels, Core Themes, Species, Sample Sources, Employed Technologies, etc.**](#Overview-of-All-Included-Studies)
 - [**Distribution of AI Technologies**](#Distribution-of-AI-Technologies)
 - [**Key Information Summary of Different Human Longevity Studies**](#Key-Summary-of-Different-Human-Longevity-Studies)
 - [**Studies by Different Years**](#Studies-by-Different-Years)

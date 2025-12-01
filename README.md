@@ -12,6 +12,7 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 <!-- vscode-markdown-toc -->
 - [**Overview of Core Themes**](#Overview-of-Themes)
 - [**Overview of 97 Included Studies (Databases, Publication Years, Countries, Focused Levels, Core Themes, Species, Sample Sources, Employed Technologies, etc.)**](#Overview-of-All-Included-Studies)
+- [**Distribution of AI Technologies**](#Distribution-of-AI-Technologies)
 - [**Key Information Summary of Different Human Longevity Studies**](#Key-Summary-of-Different-Human-Longevity-Studies)
 - [**Studies by Different Years**](#Studies-by-Different-Years)
 	- [**2025**](#2025)
@@ -39,13 +40,12 @@ https://github.com/Kali-Hac/Longevity_Survey/tree/main/Resources
 
 
 ## Overview of All Included Studies
-
 ![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/Overview_1.png)
 ![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/Overview_2.png)
 ![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/Overview_3.png)
+
+## Distribution of AI Technologies
 ![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/Overview_4.png)
-
-
 
 
 ## **Key Summary of Different Human Longevity Studies**

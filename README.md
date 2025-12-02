@@ -271,18 +271,29 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 ## 12 Directions
 ![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/AI_Driven_Directions.png)
 ### 1. Genomic Stability and Chromatin Regulation
-- 122
-### 2.Epigenetics and Pathway-Level Clocks
-### 3.Metabolite and Cofactor Interventions
-### 4.Neuroaging and Cognitive Protection
-### 5.Proteostasis and Translational Control
-### 6.Lipid Toxicity and Vascular Aging
-### 7.Tissue Regeneration and Cell Reprogramming
-### 8.Senescence Clearance and Molecular Inhibitors
-### 9.Immuno-senescence and Inflammasome Modulation
-### 10.Early Risk and Chronic Diseases
-### 11.Multi-omics Biomarkers and Translational Medicine
-### 12.Genomic Risk and Lifestyle Interventions
+- Deep learning}/transformer models for 3D genome structure and DNA damage analysis; AlphaMissense-like models to predict somatic mutation pathogenicity; GNNs to map m6A-mediated chromatin loops. 
+### 2. Epigenetics and Pathway-Level Clocks
+- Transfer learning/DNNs to create multi-tissue PF-EC clocks; Deep clustering to extract supercentenarian CpG signatures; Multi-modal deep learning for organ-specific Ageotyping.
+### 3. Metabolite and Cofactor Interventions
+- Bayesian networks/RL models to optimize the personalized dosage and timing of metabolic interventions; Causal discovery algorithms to discovery potential aging-related molecular mediators.
+### 4. Neuroaging and Cognitive Protection
+- Deep learning models to predict the impact of APOE $\ \epsilon$4 on cognitive decline; Deep docking/GNNs combined molecular dynamics simulation to design AEP and CaMK inhibitors
+### 5. Proteostasis and Translational Control
+- LLM to analyze and predict substrate/chaperone; NLP sequence models to analyze translational errors; Protein language models to identify novel SIRT6 substrates; Molecular dynamics to screen Pelota/RQC modulators.
+### 6. Lipid Toxicity and Vascular Aging
+- Molecular dynamics/generative AI to design PDE1C inhibitors; ML models to predict early biomarkers of VSMC ferroptosis.  
+### 7. Tissue Regeneration and Cell Reprogramming
+- RL models to optimize AAV capsid design for cardiac targeting; Bayesian optimization to screen for safe partial reprogramming factors; GNNs to predict longevity gene function.
+### 8. Senescence Clearance and Molecular Inhibitors
+- LLM to generate or optimize specific small molecules (e.g., KAT7 inhibitors, anti-miR-96-5p molecules, HERVK reverse transcriptase inhibitor).
+### 9. Immuno-senescence and Inflammasome Modulation
+- Multi-modal deep fusion models to calculate `Immune Age'; LLM to design specific brain-permeable drugs (e.g., NLRP3/CXCL16 inhibitors); Predictive TCR-Epitope binding models to optimize vaccine design
+### 10. Early Risk and Chronic Diseases
+- Causal discovery algorithms and RNNs to model the causal relationship and longitudinal trajectory between SES/reproductive loss and EAA. 
+### 11. Multi-omics Biomarkers and Translational Medicine
+- Multi-modal deep fusion for personalized geriatric medicine prediction; federated learning or GNNs to analyze large-scale Proteome and TFI networks; Bayesian meta-analysis to establish a CHRS.
+### 12. Genomic Risk and Lifestyle Interventions
+- Causal inference/RL models to optimize the personalized intervention dosage for targets; Deep survival prediction models for V142I carrier risk stratification; Multi-ethnic PRS for longevity prediction.
 
 
 ## AI For Longevity Framework

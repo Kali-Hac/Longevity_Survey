@@ -271,7 +271,7 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 ## 12 Directions
 ![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/AI_Driven_Directions.png)
 ### 1. Genomic Stability and Chromatin Regulation
-- Deep learning}/transformer models for 3D genome structure and DNA damage analysis; AlphaMissense-like models to predict somatic mutation pathogenicity; GNNs to map m6A-mediated chromatin loops. 
+- Deep learning/transformer models for 3D genome structure and DNA damage analysis; AlphaMissense-like models to predict somatic mutation pathogenicity; GNNs to map m6A-mediated chromatin loops. 
 ### 2. Epigenetics and Pathway-Level Clocks
 - Transfer learning/DNNs to create multi-tissue PF-EC clocks; Deep clustering to extract supercentenarian CpG signatures; Multi-modal deep learning for organ-specific Ageotyping.
 ### 3. Metabolite and Cofactor Interventions
@@ -299,9 +299,4 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 ## AI For Longevity Framework
 ![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/AI4L_framework.png)
 
-## Citation
-If you found this repository useful, please consider citing:
-```bash
 
-
-```

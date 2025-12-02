@@ -24,7 +24,7 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 
 - [**List of All Included Papers (97 Papers)**](#List-of-All-Included-Papers)
 
-- [**11 Future Directions**](#Directions)
+- [**12 Future Directions**](#12-Directions)
   
 - [**AI for Longevity (AI4L) Framework**](#AI-for-Longevity-Framework)
 <!-- vscode-markdown-toc-config
@@ -268,10 +268,10 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 - [The genomics of ecological flexibility, large brains, and long lives in capuchin monkeys revealed with fecalFACS](https://doi.org/10.1073/pnas.2010632118) (PNAS, 2021)
 - [The transcriptional coactivator CBP/p300 is an evolutionarily conserved node that promotes longevity in response to mitochondrial stress](https://doi.org/10.1038/s43587-020-00025-z) (Nature Aging, 2021)
 
-## Directions
+## 12 Directions
 ![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/AI_Driven_Directions.png)
 - Genomic Stability and Chromatin Regulation
--- 122
+	- 122
 - Epigenetics and Pathway-Level Clocks
 - Metabolite and Cofactor Interventions
 - Neuroaging and Cognitive Protection

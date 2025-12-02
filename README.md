@@ -8,6 +8,9 @@ We will continuously update this list with the latest resources. If you find any
 
 By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 
+## Overview of Structure
+![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/Structure_overview.png)
+
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
 - [**Overview of Core Themes:** </br>3 gene level themes, 5 molecule level themes, 6 cell level themes, and 5 system level themes](#Overview-of-Themes)

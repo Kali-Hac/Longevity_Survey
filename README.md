@@ -4,7 +4,7 @@ A professionally curated list of top-journal studies and resources on **human lo
 We will continuously update this list with the latest resources. If you find any missed resources or errors, please feel free to open an issue or contribute a pull request.
 
 ## Survey Paper
-[**From Genetic to Systemic Aging: Multiscale Analysis and AI-Driven Insights into Human Longevity**](./) ([Arxiv](./))
+[**From Genetic to Systemic Aging: Multiscale Analysis and AI-Driven Insights into Human Longevity**](./)
 
 By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 

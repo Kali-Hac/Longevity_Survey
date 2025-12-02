@@ -266,8 +266,8 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 - [The transcriptional coactivator CBP/p300 is an evolutionarily conserved node that promotes longevity in response to mitochondrial stress](https://doi.org/10.1038/s43587-020-00025-z) (Nature Aging, 2021)
 
 ## AI For Longevity Framework
-![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/research_vision.png)
-![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/research_vision.png)
+![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/AI_Driven_Directions.png)
+![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/AI4L_framework.png)
 
 ## Citation
 If you found this repository useful, please consider citing:

@@ -270,19 +270,19 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 
 ## 12 Directions
 ![image](https://github.com/Kali-Hac/Longevity_Survey/blob/main/Resources/AI_Driven_Directions.png)
-- Genomic Stability and Chromatin Regulation
-	- 122
-- Epigenetics and Pathway-Level Clocks
-- Metabolite and Cofactor Interventions
-- Neuroaging and Cognitive Protection
-- Proteostasis and Translational Control
-- Lipid Toxicity and Vascular Aging
-- Tissue Regeneration and Cell Reprogramming
-- Senescence Clearance and Molecular Inhibitors
-- Immuno-senescence and Inflammasome Modulation
-- Early Risk and Chronic Diseases
-- Multi-omics Biomarkers and Translational Medicine
-- Genomic Risk and Lifestyle Interventions
+### 1. Genomic Stability and Chromatin Regulation
+- 122
+### 2.Epigenetics and Pathway-Level Clocks
+### 3.Metabolite and Cofactor Interventions
+### 4.Neuroaging and Cognitive Protection
+### 5.Proteostasis and Translational Control
+### 6.Lipid Toxicity and Vascular Aging
+### 7.Tissue Regeneration and Cell Reprogramming
+### 8.Senescence Clearance and Molecular Inhibitors
+### 9.Immuno-senescence and Inflammasome Modulation
+### 10.Early Risk and Chronic Diseases
+### 11.Multi-omics Biomarkers and Translational Medicine
+### 12.Genomic Risk and Lifestyle Interventions
 
 
 ## AI For Longevity Framework

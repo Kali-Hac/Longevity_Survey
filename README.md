@@ -281,7 +281,7 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 ### 3. Metabolite and Cofactor Interventions
 - Bayesian networks/RL models to optimize the personalized dosage and timing of metabolic interventions; Causal discovery algorithms to discovery potential aging-related molecular mediators.
 ### 4. Neuroaging and Cognitive Protection
-- Deep learning models to predict the impact of APOE $\ \epsilon$4 on cognitive decline; Deep docking/GNNs combined molecular dynamics simulation to design AEP and CaMK inhibitors
+- Deep learning models to predict the impact of APOE on cognitive decline; Deep docking/GNNs combined molecular dynamics simulation to design AEP and CaMK inhibitors
 ### 5. Proteostasis and Translational Control
 - LLM to analyze and predict substrate/chaperone; NLP sequence models to analyze translational errors; Protein language models to identify novel SIRT6 substrates; Molecular dynamics to screen Pelota/RQC modulators.
 ### 6. Lipid Toxicity and Vascular Aging

@@ -23,7 +23,7 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 
 
 - [**List of All Included Papers (97 Papers)**](#List-of-All-Included-Papers)
-- [**Overview of AI-Driven Human Longevity Research**](#Overview-of-AI-Driven-Human-Longevity-Research)
+- [**AI for Longevity (AI4L) Framework**](#AI-For-Longevity-(AI4L)-Framework)
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
@@ -265,7 +265,7 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 - [The genomics of ecological flexibility, large brains, and long lives in capuchin monkeys revealed with fecalFACS](https://doi.org/10.1073/pnas.2010632118) (PNAS, 2021)
 - [The transcriptional coactivator CBP/p300 is an evolutionarily conserved node that promotes longevity in response to mitochondrial stress](https://doi.org/10.1038/s43587-020-00025-z) (Nature Aging, 2021)
 
-## Overview of AI-Driven Human Longevity Research
+## AI For Longevity (AI4L) Framework
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/research_vision.png)
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/research_vision.png)
 

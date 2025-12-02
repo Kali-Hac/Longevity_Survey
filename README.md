@@ -14,6 +14,8 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 - [**Overview of 97 Included Longevity Studies:** </br>Databases, Publication Years, Countries, Focused Levels, Core Themes, Species, Sample Sources, Employed Technologies, etc.](#Overview-of-All-Included-Studies)
 - [**Distribution of Employed AI Technologies**](#Distribution-of-AI-Technologies)
 - [**Key Information Summary of 97 Included Longevity Studies**](#Key-Summary-of-Different-Human-Longevity-Studies)
+- [**List of All Included Papers (97 Papers)**](#List-of-All-Included-Papers)
+  
 - [**Studies by Different Years**](#Studies-by-Different-Years)
 	- [**2025** (22)](#2025)
  	- [**2024** (23)](#2024)
@@ -22,7 +24,6 @@ By Haocong Rao, Mingyu Liu, Xiao Yang, and Chunyan Miao.
 	- [**2021** (18)](#2021)
 
 
-- [**List of All Included Papers (97 Papers)**](#List-of-All-Included-Papers)
 
 - [**12 Future Directions**](#12-Directions)
   
